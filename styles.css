@@ -1,0 +1,23 @@
+/* add your CSS here */
+h3{
+  font-weight: bold;
+}
+span{
+  font-weight: bold;
+}
+img{
+  width: 300px;
+}
+li{
+  list-style: none;
+}
+.parent{
+  border: 1px solid grey;
+  box-shadow: 10px 10px lightgrey;
+  padding: 40px;
+
+}
+.child{
+  border: 1px solid grey;
+  padding: 40px;
+}
